@@ -5,4 +5,4 @@ Shox-Sprinkler is an organization focused on developing sprinkler control system
 ## Repositories
 
 - [.github](https://github.com/Shox-Sprinkler/.github)
-  - Organization-wide configuration repository containing shared GitHub workflows, issue templates, and community health files
+  - GitHub organization configuration and templates
